@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  ## Hi, I`m kinddoctor
+  ## Hi, I`m Tatiana Yagodina
   ![mobile](https://github.com/user-attachments/assets/d0365d4d-6211-4a32-b5a9-e5d584b77230)
   
 </div>
